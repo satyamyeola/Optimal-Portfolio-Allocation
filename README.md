@@ -1,5 +1,5 @@
 # Optimal-Portfolio-Allocation
-In this project the main aim is to find the best combination of proportion of the part of my capital i can invest in the assets so that i can get maximum return with a minimum risk.
+In this project the main aim is to find the best combination of proportion of the part of my capital I can invest in the assets so that I can get maximum return with a minimum risk.
 # KEY CONCEPTS
 * Data Processing : Fetched 3 years of adjusted closing prices using yfinance.
 * Statistical Part : Calculated the Annualized Mean Return (μ) and the Annualized Covariance Matrix (Σ).
